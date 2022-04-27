@@ -1,6 +1,6 @@
-﻿id;name;age;education;religion
-M;Mama;44;S;a
-J;Johnny;25;MR;e
-Y;Yasmin;23;FH;k 
-N;Noah;24;A;rk
-L;Laura;22;FH;a
+﻿id,name,age,education,religion
+M,Mama,44,S,a
+J,Johnny,25,MR,e
+Y,Yasmin,23,FH,k
+N,Noah,24,A,rk
+L,Laura,22,FH,a
